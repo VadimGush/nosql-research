@@ -14,3 +14,4 @@
 
  1. "Distributed Systems in One Lesson" by Tim Berglund [https://youtu.be/Y6Ev8GIlbxc]
  2. "CS50 Lecture" by Mark Zuckerberg [https://youtu.be/xFFs9UgOAlE]
+ 3. "SQL Queries For Mere Mortals" by John Viescas, Michael J. Hernandez [https://www.amazon.com/SQL-Queries-Mere-Mortals-Hands/dp/0321992474/]
