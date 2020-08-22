@@ -2,30 +2,24 @@
 
 ## Table of contents
 
- 1. Structure of data in SQL databases and its limitations
- 2. Forced consistency as main drawback
- 3. Problems with implementation of distributed system
- 4. NoSQL database as a solution
- 5. Limitations of NoSQL databases
- 6. References
+ 1. Introduction
+ 1. Structure scalability
+    1. SQL tables
+    2. NoSQL data structures
+ 2. Performance
+    1. Column-oriented and row-oriented
+    2. X-oriented
+ 3. Infrastructure scalability
+    1. Introduction to the problem
+    2. SQL solutions
+    3. No-SQL solutions
  
+# Introduction
 
-## SQL Databases
+In this article I will try to compare two types of modern databases: SQL and NoSQL. I divived this article by chapters, one of which describes one particular characteristic of a database. There are 3 chapters: structures, performance, infrastracture. In every chapter I will try to explain main advantages and drawbacks of each particular type of database without too much details. Database design is a very hard subject and due to the fact that we're just applicable software engineers, we'll look at different databases only in high-level.
 
-What is SQL. Describe model of a SQL DB. Structure and its drawbacks
+For comparasion I choose PostgreSQL as a SQL database and MongoDB as a NoSQL databases. Of course, I will mention more NoSQL databases because they have so much variations of structures and architectures, that it will be biased to compare SQL with only one of them.
 
-### NoSQL Databases
-
-What is NoSQL. Description of different structures and they drawbacks.
-
-## Introduction to the problem
-
-How online games store information about player and how this information distributed across multiple servers and datacenters.
-
-## Limitations
-
-## NoSQL solution
- 
 
 ## References
 
