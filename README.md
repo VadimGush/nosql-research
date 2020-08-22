@@ -20,8 +20,12 @@ In this article I will try to compare two types of modern databases: SQL and NoS
 
 For comparasion I choose PostgreSQL as a SQL database and MongoDB as a NoSQL databases. Of course, I will mention more NoSQL databases because they have so much variations of structures and architectures, that it will be biased to compare SQL with only one of them.
 
+# Structure scalability
 
-## References
+Structure scalability a
+
+
+# References
 
  1. "Distributed Systems in One Lesson" by Tim Berglund [https://youtu.be/Y6Ev8GIlbxc]
  2. "CS50 Lecture" by Mark Zuckerberg [https://youtu.be/xFFs9UgOAlE]
