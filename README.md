@@ -10,6 +10,19 @@
  6. References
  
 
+## SQL Databases
+
+What is SQL. Describe model of a SQL DB.
+
+## Introduction to the problem
+
+How online games store information about player and how this information distributed across multiple servers and datacenters.
+
+## SQL DB limitations
+
+## NoSQL solution
+ 
+
 ## References
 
  1. "Distributed Systems in One Lesson" by Tim Berglund [https://youtu.be/Y6Ev8GIlbxc]
