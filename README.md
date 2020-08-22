@@ -12,13 +12,17 @@
 
 ## SQL Databases
 
-What is SQL. Describe model of a SQL DB.
+What is SQL. Describe model of a SQL DB. Structure and its drawbacks
+
+### NoSQL Databases
+
+What is NoSQL. Description of different structures and they drawbacks.
 
 ## Introduction to the problem
 
 How online games store information about player and how this information distributed across multiple servers and datacenters.
 
-## SQL DB limitations
+## Limitations
 
 ## NoSQL solution
  
