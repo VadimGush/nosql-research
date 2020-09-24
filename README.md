@@ -21,7 +21,7 @@
  
 # Introduction
 
-In this article I will try to compare two types of modern databases: SQL and NoSQL. I divived this article by chapters, one of which describes one particular characteristic of a database. There are 3 main chapters: structures, performance, infrastracture. In every chapter I will try to explain main advantages and drawbacks of each particular type of database without too much details. Database design is a very hard subject and due to the fact that we're just applicable software engineers, we'll look at different databases only in high-level.
+In this article I will try to compare two types of modern databases: SQL and NoSQL. I divived this article by chapters, one of which describes one particular characteristic of a database. There are 4 main chapters: structures, operations, performance, infrastracture. In every chapter I will try to explain main advantages and drawbacks of each particular type of database without too much details. Database design is a very hard subject and due to the fact that we're just applicable software engineers, we'll look at different databases only in high-level.
 
 For comparasion I choose PostgreSQL as a SQL database and MongoDB as a NoSQL databases. Of course, I will mention more NoSQL databases because they have so much variations of structures and architectures, that it will be biased to compare SQL with only one of them.
 
