@@ -7,6 +7,9 @@
     1. Complexity
     1. SQL Model
     2. NoSQL Data Structures
+ 2. Operations on data
+    1. SQL
+    2. NoSQL
  2. Performance
     1. Column-oriented and Row-oriented
     2. X-oriented
